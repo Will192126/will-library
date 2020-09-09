@@ -1,0 +1,3 @@
+rootProject.name='will-library'
+include ':app'
+include ':will-library'
